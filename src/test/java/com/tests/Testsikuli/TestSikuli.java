@@ -55,6 +55,8 @@ public class TestSikuli
 	
 		System.out.println("Job completed");
 		
+		System.out.println("Finally");
+		
 		
 	}
 	
