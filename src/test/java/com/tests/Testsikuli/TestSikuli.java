@@ -53,6 +53,7 @@ public class TestSikuli
 		org.sikuli.api.robot.Mouse mouse =  new DesktopMouse();
 		mouse.click(r.getCenter());
 	
+		System.out.println("Job completed");
 		
 		
 	}
